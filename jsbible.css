@@ -1,0 +1,85 @@
+/*!
+ * JS Bible v1.0
+ * A jQuery Bible widget for your website
+ * http://www.jonsuh.com/jsbible
+ * 
+ * Copyright (c) 2013 Jonathan Suh
+ * Free to use under the MIT license.
+ * http://opensource.org/licenses/MIT
+ */
+.jsbible {
+  font-family: Georgia, "Times New Roman", sans-serif;
+  margin: 0 auto;
+}
+
+.jsbible a {
+  text-decoration: none;
+}
+
+.jsbible-select {
+  background-color: #eee;
+  border-top: 5px solid #ee0406;
+  text-align: center;
+  padding: 1em;
+}
+
+.jsbible-select select {
+  font-size: 0.85em;
+  margin: 0 0.2em;
+}
+
+.jsbible-text.scroll {
+  max-height: 100px;
+  overflow: auto;
+}
+
+.jsbible-text p {
+  line-height: 1.6em;
+  margin-bottom: 0;
+}
+
+.jsbible-text span {
+  font-size: inherit!important;
+}
+
+.jsbible-text p:first-child {
+  font-size: 2em;
+  font-weight: 700;
+  color: #ee0406;
+  border-bottom: 1px solid #ccc;
+  line-height: 2.7em;
+  margin: 0.2em 0 0.8em;
+}
+
+.jsbible-text sup {
+  font-size: 0.7em;
+  color: #777;
+  margin-right: 0.5em;
+}
+
+.jsbible-scrolltop {
+  color: #fefefe;
+  background-color: #ee0406;
+  text-align: center;
+  padding: 0.8em 1em;
+  margin-top: 1.6em;
+  display: block;
+}
+
+.jsbible-scrolltop:hover {
+  background-color: #ff2a2c;
+}
+
+.jsbible-copyright {
+  font-size: 60%;
+  color: #aaa;
+  text-align: center;
+  margin-top: 1em;
+}
+
+.jsbible-copyright img {
+  width: 73px;
+  height: 30px;
+  position: relative;
+  top: 1.5em;
+}

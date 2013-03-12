@@ -2,7 +2,7 @@
 
 JS Bible is a jQuery Bible plugin built by [http://www.jonsuh.com](Jonathan Suh).
 
-Homepage: [http://www.jonsuh.com/jsbible](www.jonsuh.com/jsbible)
+Homepage and working demo: [http://www.jonsuh.com/jsbible](www.jonsuh.com/jsbible)
 
 ## Getting started
 

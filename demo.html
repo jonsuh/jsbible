@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
+<title>Demo: JS Bible</title>
+<style type="text/css">
+/*!
+ * JS Bible v1.0
+ * A jQuery Bible widget for your website
+ * http://www.jonsuh.com/jsbible
+ * 
+ * Copyright (c) 2013 Jonathan Suh
+ * Free to use under the MIT license.
+ * http://opensource.org/licenses/MIT
+ */
+body {font-family: Helvetica, Arial, sans-serif;}
+</style>
+<link href="jsbible.css" rel="stylesheet" media="screen, handheld" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="jquery.jsbible.min.js"></script>
+<script type="text/javascript">
+$("document").ready(function(){
+  $(".jsbible").jsbible({
+    api: ""
+  });
+});
+</script>
+</head>
+<body>
+<p><b>JS Bible</b></p>
+<div class="jsbible"></div>
+<p><a href="http://www.jonsuh.com/jsbible">JS Bible Homepage &rarr;</a></p>
+<p><small>&copy; 2013 Jonathan Suh. <a href="http://www.jonsuh.com" title="Jonathan Suh">www.jonsuh.com</a></small></p>
+</body>
+</html>
