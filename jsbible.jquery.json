@@ -1,0 +1,26 @@
+{
+	"name": "jsbible",
+	"title": "JS Bible",
+	"description": "A jQuery Bible plugin for your website.",
+	"keywords": [
+		"bible",
+		"kjv",
+		"asv",
+		"av"
+	],
+	"version": "1.0",
+	"author": {
+		"name": "Jonathan Suh",
+		"url": "http://www.jonsuh.com"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/jonsuh/jsbible/blob/master/LICENSE"
+		}
+	],
+	"homepage": "http://www.jonsuh.com/jsbible",
+	"docs": "https://github.com/jonsuh/jsbible#usage",
+	"demo": "http://www.jonsuh.com/jsbible#demo",
+	"download": "https://github.com/jonsuh/jsbible/archive/master.zip"
+}
