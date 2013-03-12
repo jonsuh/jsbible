@@ -22,5 +22,8 @@
 	"homepage": "http://www.jonsuh.com/jsbible",
 	"docs": "https://github.com/jonsuh/jsbible#usage",
 	"demo": "http://www.jonsuh.com/jsbible#demo",
-	"download": "https://github.com/jonsuh/jsbible/archive/master.zip"
+	"download": "https://github.com/jonsuh/jsbible/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.8"
+	}
 }
